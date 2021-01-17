@@ -6,4 +6,4 @@ for i in range(len(s)):
     l1.append(s[i])
   else:
     l2.append(s[i])
- print(ans(sum(l1)=sun(l2)))     
+ print(abs(sum(l1)-sum(l2)))     
