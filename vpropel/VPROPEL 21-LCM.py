@@ -10,9 +10,6 @@ First line contains the number, n
 Output Format
 Print either the number that is divisible by all even numbers less than ‘n’ or print No such number in range
 
-
-
-
 SOLUTION
 import sys
 n = int(input())
