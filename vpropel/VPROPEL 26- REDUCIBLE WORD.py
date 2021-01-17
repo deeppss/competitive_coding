@@ -17,30 +17,22 @@ For example, the word
 reduced to * as follows.
 
 Step 1: by rule1, the word 'cabbabbbc' gets reduced to ca*abbbc
-
 Step 2: by rule2, the word ca*abbbc gets reduced to caabbbc
-
 Step 3: by rule 1, the word caabbbc gets reduced to c*bbbc
-
 Step 4: by rule 2, the word c*bbbc gets reduced to cbbbc
-
 Step 5: by rule 1, cbbbc gets reduced to c*c
-
 Step 6: by rule 2, c*c gets reduced to cc
-
 Step 7. By rule 1, cc gets reduced to *.
 
-
 Thus, the word cabbabbbc gets reduced to *.
-
 You can apply the rules in any order, any number of times.
-
 The word abbcaa will get reduced to ac. We cannot reduce this word further.
 
  
 Given a word w, write a code to check whether the given word is reducible to * or not. If the word is reducible to *, your code should out put 1. If the given word is not reducible to * by the application of any rule, any number of times, your code should out put 0.
 
 All the words are case insensitive. 
+
 
 Input format
 Enter the word
