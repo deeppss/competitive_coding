@@ -11,8 +11,6 @@ Next line contains ‘n’ height of locations separated by a space
 Output Format
 Print the number of Up moves and number of Down moves separated by a space
 
-
-
 SOLUTION
 n=int(input())
 max=0
