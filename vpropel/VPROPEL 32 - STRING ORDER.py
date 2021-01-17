@@ -2,7 +2,7 @@ QUESTION
 Ordered-Containment of a String
 A String S2 is said to be order-contained in another string S1 if all the letters of S2 is present in S1 and order of occurrence of letters of S2 in S1 is same as in S2. For example, elephant contains ant, hat but not tap.
 
-Given two strings S1 and S2, write a code to Print ‘Yes’ if S2 is order-contained in S1 and ‘No’ otherwise. All letters in the input will be lowercase in the given string with no spaces
+Given two strings S1 and S2, write a code to Print â€˜Yesâ€™ if S2 is order-contained in S1 and â€˜Noâ€™ otherwise. All letters in the input will be lowercase in the given string with no spaces
 
 Input Format
 First line contains the string, S1
