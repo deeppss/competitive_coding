@@ -14,8 +14,6 @@ Print "beautiful" if the number is a beautiful number and -1 otherwise
 Constraints:
 1 <= N <= 999999999999999999
 
-
-
 SOLUTION
 arr =[0] * 1000000
 arr[1] = 8
